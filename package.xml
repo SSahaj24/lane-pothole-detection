@@ -4,7 +4,7 @@
   <name>lane_pothole_detection</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="sahajshetty24@gmail.com">sahaj</maintainer>
+  <maintainer email="">sahaj</maintainer>
   <license>TODO: License declaration</license>
 
   <test_depend>ament_copyright</test_depend>
